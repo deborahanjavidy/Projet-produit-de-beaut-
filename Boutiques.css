@@ -1,0 +1,101 @@
+body {
+    max-width: 100%; 
+    margin: 70px; 
+    padding: 20px; 
+   
+}
+nav{
+    margin-left: 90px;
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    margin-top: -130px;
+    margin-bottom:-40px;
+    margin-left: -100px;
+}
+nav ul li{
+    display: inline;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    padding: 30px;
+    color:plum;
+    font-size: 25px;
+    font-family: verdana;
+}
+header nav ul li a:hover{
+    color: rgb(249, 170, 234);
+    cursor: pointer;
+}
+button {
+    padding: 10px 8px; 
+    border: plum; 
+    background-color: plum; 
+    color: white; 
+    cursor: pointer;
+    border-radius: 10px; 
+    display: inline;
+    padding-left: 10px;
+    
+}
+
+button:hover {
+    background-color: plum;
+    
+}
+#search-input {
+    width: 200px; 
+    padding: 12px; 
+    font-size: 18px; 
+    border: 2px solid plum ;
+    border-radius: 5px; 
+    background-color: #E6E6FA; 
+    color: #333;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+header ul li form{
+    display: inline;
+}
+
+#search-form button::before {
+    content: "\1F50D";
+    font-size: 22px;
+    
+}
+#debut{
+font-size: 20px;
+font-family: 'Baskerville', serif;
+color: purple;
+}
+footer{
+    border:40px plum;
+    background-color: rgb(148, 65, 148);
+    margin-left: 0px;
+}
+footer ul li{
+    list-style-type: none;
+}
+
+
+#chii{
+    width:100px;
+    height:120px;
+    margin-left: 450px;
+    margin-top: -300px;
+    margin-bottom: 50px;
+}
+
+.icon-text{
+    width:20px;
+}
+.chat{
+    margin-left:50px;
+    color:pink;
+    margin-top: -23px;
+    white-space: nowrap;
+}
+
+  
