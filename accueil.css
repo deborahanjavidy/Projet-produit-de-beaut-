@@ -26,7 +26,7 @@ header nav ul li a{
     font-family: verdana;
 }
 header nav ul li a:hover{
-    color: rgb(249, 170, 234);
+    color: purple;
     cursor: pointer;
 }
 button {
@@ -35,10 +35,11 @@ button {
     background-color: plum; 
     color: white; 
     cursor: pointer;
-    border-radius: 10px; 
+    border-radius: 5px; 
     display: inline;
     padding-left: 10px;
-   padding-top:-30px;
+    padding-top: 5px;
+    margin-bottom: 2px;
     
 }
 
@@ -56,7 +57,7 @@ button:hover {
     color: #333;
     margin-left: 20px;
     margin-bottom: 20px;
-
+ 
 }
 header ul li form{
     display: inline;
@@ -140,3 +141,140 @@ footer ul li{
     margin-top: 10px;
 }
 
+#chit{
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:purple;
+    padding-left: 40px;
+}
+#chot{
+    padding-left: 40px;
+    font-size:20px;
+}
+#carot{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 500px;
+    color:rgb(80, 231, 180);
+}
+#sot{
+    width:420px;
+    height:370px;
+    margin-top:-30px;
+}
+#sit{
+    width:250px;
+    height:250px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+#sut{
+    width:200px;
+    height:260px;
+    margin-left: 260px;
+    margin-bottom: 52px;
+}
+#chol{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 55px;
+}
+#chal{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 500px;
+    margin-top:-48px;
+}
+#chil{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1000px;
+    margin-top: -48px;
+}
+.acheter-btn {
+    background-color: white;
+    color: #6a0dad;
+    font-size: 20px;
+    border: none;
+    padding: 15px 30px;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 110px;
+}
+
+.acheter-btn:hover {
+    background-color: #e6e6fa;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 8px;
+}
+.moi{
+    font-size: 25px;
+}
+.acheter-bti{
+    background-color: white;
+    color: #6a0dad;
+    font-size: 20px;
+    border: none;
+    padding: 15px 30px;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 240px;
+    margin-right: 270px;
+}
+.acheter-btu{
+    background-color: white;
+    color: #6a0dad;
+    font-size: 20px;
+    border: none;
+    padding: 15px 30px;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom:-50px;
+    margin-top: -120px;
+    margin: 20px;
+    margin-right:-100px;
+}
+.acheter-bti:hover {
+    background-color: #e6e6fa;
+}
+.acheter-btu:hover {
+    background-color: #e6e6fa;
+}
+#chove{
+    margin-top: -30px;
+}
+h3{
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:purple;
+    padding-left: 40px;
+}
+.black{
+    margin-left: 40px;
+}
+h4{
+    font-size:30px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(80, 231, 180);
+    margin-left: 1000px;
+    margin-top: -450px;
+    padding-bottom: 450px;
+
+}
+#loli{
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-top:-480px ;
+    padding-bottom:200px ;
+    text-align: justify;
+}

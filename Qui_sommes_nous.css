@@ -26,7 +26,7 @@ header nav ul li a{
     font-family: verdana;
 }
 header nav ul li a:hover{
-    color: rgb(249, 170, 234);
+    color: purple;
     cursor: pointer;
 }
 button {
@@ -35,10 +35,11 @@ button {
     background-color: plum; 
     color: white; 
     cursor: pointer;
-    border-radius: 10px; 
+    border-radius: 5px; 
     display: inline;
     padding-left: 10px;
-   padding-top:-30px;
+    padding-top: 5px;
+    margin-bottom: 2px;
     
 }
 
@@ -56,7 +57,7 @@ button:hover {
     color: #333;
     margin-left: 20px;
     margin-bottom: 20px;
-
+ 
 }
 header ul li form{
     display: inline;
@@ -132,6 +133,10 @@ footer ul li{
 }
 #chut{
     font-size: 20px;
-   
 }
-
+#premi{
+    width: 1230px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
